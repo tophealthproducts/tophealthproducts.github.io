@@ -25,7 +25,7 @@ defaults:
       path: ""
       type: "products"
     values:
-      layout: "service"
+      layout: "product"
   - scope:
       path: ""
       type: "team"
