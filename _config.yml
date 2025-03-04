@@ -14,7 +14,7 @@ home:
   limit_services: 6
 
 collections:
-  services:
+  products:
     output: true
     sort_by: weight
   team:
@@ -23,7 +23,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "products"
     values:
       layout: "service"
   - scope:
