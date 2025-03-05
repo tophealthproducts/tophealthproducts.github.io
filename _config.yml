@@ -11,7 +11,7 @@ logo:
   desktop_width: "100px"
 
 home: 
-  limit_services: 6
+  limit_products: 6
 
 collections:
   products:
