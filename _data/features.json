@@ -1,6 +1,6 @@
 [
   {
-    "title": "Wholesale",
+    "title": "Product Category 1",
     "description": "New clients receive an obligation free consultation.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
@@ -9,7 +9,7 @@
     }
   },
   {
-    "title": "Warehouse Service",
+    "title": "Product Category 2",
     "description": "All members of our team are certified accountants.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
@@ -18,7 +18,7 @@
     }
   },
   {
-    "title": "Warehouse System",
+    "title": "Product Category 3",
     "description": "We stay up to date on the latest changes to the tax code.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
