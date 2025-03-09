@@ -1,27 +1,27 @@
 [
   {
-    "title": "Product Category 1",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Adult Comfort",
+    "description": "Live life fully, with dignity and comfort.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/adult.jpg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Product Category 2",
-    "description": "All members of our team are certified accountants.",
+    "title": "Baby Care ",
+    "description": "The softest touch for your little one.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/baby.jpg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Product Category 3",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Women's Health",
+    "description": "Live freely, confidently, and comfortably every day.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/women.jpg",
       "width": 80,
       "height": 80
     }
